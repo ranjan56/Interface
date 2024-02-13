@@ -11,7 +11,7 @@ interface StudentActivities{
 
 	@Override
 	public void study() {
-		System.out.println("studying");
+		System.out.println("studying........");
 
 		
 	}
